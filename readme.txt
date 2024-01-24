@@ -7,25 +7,21 @@ and an ArrayList, and then performs the conversions.
 
 ## Usage
 
-1. **Clone the Repository:**
-    ```bash
-    git clone https://github.com/your-username/ArrayToArrayList-Converter.git
-    cd ArrayToArrayList-Converter
-    ```
 
-2. **Compile and Run:**
+
+1. **Compile and Run:**
     ```bash
     javac ArrayToArrayList.java
     java ArrayToArrayList
     ```
 
-3. **Follow the Prompts:**
+2. **Follow the Prompts:**
     - Enter the size of the array.
     - Enter elements for the array.
     - Enter the size of the ArrayList.
     - Enter elements for the ArrayList.
 
-4. **Output:**
+3. **Output:**
     - The program will display the array converted to an ArrayList.
     - The program will display the ArrayList converted to an array.
 
